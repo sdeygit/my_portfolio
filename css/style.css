@@ -9,3 +9,34 @@ body {
 .banner-column{
     background-color: #8D8D8D;
 }
+
+.navbar-container{
+    background-color: #262B37;
+}
+
+.about-container{
+    background-color: #01BBBC;
+}
+
+.education-container{
+    background-color: #EEEEEE;
+}
+
+.bg-redtype{
+    background-color: #FB857F;
+}
+
+.redtype-text{
+    color: #FB857F;
+}
+
+.circle{
+    background-color: #FB857F;
+    width: 150px;  
+    height: 150px;  
+    border-radius: 50%;
+}
+
+.project-container{
+    background-color: #2CB2E0;
+}
